@@ -54,15 +54,17 @@ https://www.nature.com/articles/s41586-019-0965-1
 ## Background
 
 Motivation for the project....
+The Goodman Lab at the Yale Microbial Sciences Institute has identified a novel bacteriocidin used in competition between gut bacterial species. Understanding more about the genes associated with this bacteriocin and associated proteins will be important to uncovering its distribution among gut commensals and pathogenic species. It will enable the uncovering of co-occurring genes and phenotypes that can contribute to a collective fitness profile. Knowing what makes microorganisms capable of thriving in the hyper-competitive gut environment will be critical to engineering beneficial probiotic strains or cocktails for disease treatment and prevention.
 
 How it fits in with other work...
+
 
 What the reader needs to know to understand the project
 
 
 ## Methods
 
-Methods to be used are still being determined alongside narrowing down the above questions - determining which will be most feasible to approach based on the methods available. 
+Methods to be used are still being determined alongside narrowing down the above questions - determining which will be most feasible to approach based on the methods available.
 
 ## Results
 
