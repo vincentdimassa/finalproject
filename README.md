@@ -59,7 +59,10 @@ The Goodman Lab at the Yale Microbial Sciences Institute has identified a novel 
 How it fits in with other work...
 
 
-What the reader needs to know to understand the project
+
+What the reader needs to know to understand the project...
+
+Bacteriocins are ribosomally produced peptides secreted by a bacterial strain or species to help establish them in a community niche. Bacteriocins can take the form of colonization factors that help the host occupy a competitive niche, or can act to directly kill competitors. The producer of the protein will have a specialized immunity mechanism that prevents it from experiencing these toxic effects. Bacteriocins can also function as signaling peptides to foster inter-bacterial or bacteria-host immune crosstalk. (1) 
 
 
 ## Methods
@@ -80,3 +83,5 @@ What would you have done differently?
 What are future directions this could go in?
 
 ## References
+
+[1] 2012 Review on bacteriocins in the microbiota: https://aem.asm.org/content/78/1/1
