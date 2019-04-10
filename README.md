@@ -36,6 +36,10 @@ I plan to use metagenomic data referenced and used in several recent microbial m
 
 http://segatalab.cibio.unitn.it/data/Pasolli_et_al.html
 
+test changes
+
+(downloaded the fasta file into PACTRIC - genomes are already binned into species-level genome bins)
+
 from the following source:
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6349461/
@@ -62,7 +66,7 @@ How it fits in with other work...
 
 What the reader needs to know to understand the project...
 
-Bacteriocins are ribosomally produced peptides secreted by a bacterial strain or species to help establish them in a community niche. Bacteriocins can take the form of colonization factors that help the host occupy a competitive niche, or can act to directly kill competitors. The producer of the protein will have a specialized immunity mechanism that prevents it from experiencing these toxic effects. Bacteriocins can also function as signaling peptides to foster inter-bacterial or bacteria-host immune crosstalk. (1) 
+Bacteriocins are ribosomally produced peptides secreted by a bacterial strain or species to help establish them in a community niche. Bacteriocins can take the form of colonization factors that help the host occupy a competitive niche, or can act to directly kill competitors. The producer of the protein will have a specialized immunity mechanism that prevents it from experiencing these toxic effects. Bacteriocins can also function as signaling peptides to foster inter-bacterial or bacteria-host immune crosstalk. (1)
 
 
 ## Methods
