@@ -73,6 +73,12 @@ Bacteriocins are ribosomally produced peptides secreted by a bacterial strain or
 
 Methods to be used are still being determined alongside narrowing down the above questions - determining which will be most feasible to approach based on the methods available.
 
+1. Upload metagenomics file to PACTRIC
+
+2. Upload NCBI gene sequences of interest to PACTRIC
+
+3. BLAST GENE 4 against all strains of B. fragilis
+
 ## Results
 
 
